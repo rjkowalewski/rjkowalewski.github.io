@@ -1,50 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://blog.kowfam.uk/authors/helenandryan/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.kowfam.uk/authors/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.kowfam.uk/trips/italy-2019/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.kowfam.uk/2019/07/22/italy-2019-coming-soon/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
+    <loc>http://blog.kowfam.uk/2019/08/04/italy-2019-venice-day-12/</loc>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.kowfam.uk/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.kowfam.uk/posts/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.kowfam.uk/trips/</loc>
-    <lastmod>2019-07-22T11:58:55+01:00</lastmod>
+    <lastmod>2019-08-04T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/08/03/italy-2019-venice-day-11/</loc>
+    <lastmod>2019-08-03T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/08/02/italy-2019-lake-garda-day-10/</loc>
+    <lastmod>2019-08-02T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/08/01/italy-2019-lake-garda-day-9/</loc>
+    <lastmod>2019-08-01T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/31/italy-2019-cinque-terre-day-8/</loc>
+    <lastmod>2019-07-31T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/30/italy-2019-la-spezia-day-7/</loc>
+    <lastmod>2019-07-30T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/29/italy-2019-florence-day-6/</loc>
+    <lastmod>2019-07-29T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/28/italy-2019-florence-day-5/</loc>
+    <lastmod>2019-07-28T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/27/italy-2019-rome-day-4/</loc>
+    <lastmod>2019-07-27T05:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/26/italy-2019-rome-day-3/</loc>
+    <lastmod>2019-07-26T21:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/25/italy-2019-rome-day-2/</loc>
+    <lastmod>2019-07-25T21:54:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/2019/07/24/italy-2019-rome-day-1/</loc>
+    <lastmod>2019-07-24T11:58:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.kowfam.uk/maps/world/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://blog.kowfam.uk/maps/</loc>
+  </url>
+  
+  <url>
     <loc>http://blog.kowfam.uk/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
